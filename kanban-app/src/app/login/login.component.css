@@ -1,0 +1,59 @@
+body{
+  
+}
+.login-form{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: azure;
+    background-image: linear-gradient(135deg, rgb(159, 159, 240), rgb(125, 187, 245));
+}
+
+form{
+    margin-top:20vh;
+}
+
+.input-box{
+    border-radius: 12px;
+    border: 1px solid rgb(191, 191, 241);
+    padding: 8px 0px 8px 38px;
+    width: 350px;
+}
+
+.submit-btn-disable{
+    padding: 12px 22px 12px 22px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: 10px;
+    background-color:rgb(191, 191, 241);
+    color: white;
+}
+
+.submit-btn-enable{
+    padding: 12px 22px 12px 22px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: 10px;
+    background-color:rgb(191, 191, 241);
+    color: black;
+}
+
+.submit-btn-disable:hover{
+    box-shadow: 2px 2px 5px rgb(191, 191, 241);
+}
+
+.submit-btn-enable:hover{
+    box-shadow: 2px 2px 5px rgb(191, 191, 241);
+}
+
+.email-wrapper{
+position: relative;
+}
+
+.email-icon{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    color: grey;
+}

@@ -1,0 +1,59 @@
+<!-- <p>login works!</p> -->
+<div class="login-form">
+  <form [formGroup]="userLoginForm" (ngSubmit)="submitForm()">
+    <div>
+      <div>
+        <h1>Welcome Back!</h1>
+      </div>
+      <div>
+        <div>
+          <p>Enter Email</p>
+          <div class="email-wrapper">
+            <span class="material-icons email-icon">email</span>
+            <input
+              class="input-box"
+              formControlName="userEmail"
+              placeholder="Email"
+              type="text"
+            />
+          </div>
+        </div>
+        <div>
+          <p>Enter Password</p>
+          <div class="email-wrapper">
+            <span class="material-icons email-icon">lock</span>
+            <input
+              class="input-box"
+              placeholder="Password"
+              formControlName="password"
+              type="password"
+            />
+          </div>
+        </div>
+        <div>
+          <p>Confirm Password</p>
+          <div class="email-wrapper">
+            <span class="material-icons email-icon">lock</span>
+            <input
+              class="input-box"
+              placeholder="Confirm Password"
+              formControlName="confirmPassword"
+              type="password"
+            />
+          </div>
+        </div>
+        <div>
+          <button
+            [ngClass]="
+              !userLoginForm.valid ? 'submit-btn-disable' : 'submit-btn-enable'
+            "
+            type="submit"
+            [disabled]="!userLoginForm.valid"
+          >
+            Submit
+          </button>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
