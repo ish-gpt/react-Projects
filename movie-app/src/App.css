@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.header-options{
+  padding: 0.5rem;
+}
+
+.banner-image{
+  height: 90vh;
+  width: 100%;
+  filter:brightness(40%)
+}
+
+.banner-card{
+  position: relative;
+}
+
+.banner-title{
+  color: white;
+   font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3.5rem;
+}
+
+.banner-quote{
+  color: white; 
+   font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5rem;
+}
+
+.image-quote{
+  font-family: Caveat;
+  color: white;
+  font-size: 18px;
+}
+
+.image-desc{
+  position: absolute;
+  top: 25vh;
+}
+
+.banner-desc{
+  position: absolute;
+  top: 30vh;
+  left: 30vw;
+}
+
+.movie-image-card{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  justify-content: center;
+}
+
+.movie-card{
+  width: 20vw;
+  /* justify-content: center; */
+  /* align-items: center; */
+  position: relative;
+  margin: 1rem;
+  color: white;
+}
+
+.movie-options{
+  position: absolute;
+  top: 3rem;
+  left: 3rem;
+}
+
+.movies-img{
+  width: 20vw;
+  height: 40vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@media screen and (max-width:400px) {
+  .banner-image{
+  height: 40vh;
+  width: 100%;
+  filter:brightness(40%)
+}
+
+.banner-desc{
+  position: absolute;
+  top: 20vh;
+}
+/* .movie-image-card{
+  padding: 1rem;
+  justify-content: center;
+} */
+.movie-card{
+  width: 40vw;
+  margin: 0.1rem;
+}
+.movies-img{
+  width: 40vw;
+}
+.movie-options{
+  position: absolute;
+  top: 3rem;
+  left: 1.5rem;
+}
+.movies-btn{
+  width: 80%;
+}
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

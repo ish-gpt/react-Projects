@@ -1,0 +1,154 @@
+{
+    "movies": [
+      {
+        "imageName": "movie-1.jpeg",
+        "Title": "Fast & Furious",
+        "Description": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+        "Id":"1"
+      },
+      {
+        "imageName": "movie-2.jpeg",
+        "Title": "The Gentlemen",
+        "Description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+        "Id":"2"
+      },
+      {
+        "imageName": "movie-3.jpeg",
+        "Title": "Manhunt",
+        "Description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+        "Id": "3"
+      },
+      {
+        "imageName": "movie-4.jpeg",
+        "Title": "Palm Royale",
+        "Description": "Half a year into his solo mission on the edge of the solar system, an astronaut concerned with the state of his life back on Earth is helped by an ancient creature he discovers in the bowels of his ship.",
+        "Id": "4"
+      },
+      {
+        "imageName": "movie-5.jpeg",
+        "Title": " Black Mafia Family",
+        "Description": "Two brothers who rose from the decaying streets of southwest Detroit in the late 1980s and gave birth to one of the most influential crime families in the country.",
+        "Id": "5"
+      },
+      {
+        "imageName": "movie-6.jpeg",
+        "Title": " The Boy",
+        "Description": "A reluctant leader of a gang of rogues sets out on a series of wild adventures, all while trying to outwit the corrupt lawman and thief-taker Jonathan Wilde.",
+        "Id": "6"
+      },
+      {
+        "imageName": "movie-7.jpeg",
+        "Title": "The Regime",
+        "Description": "Kate Winslet stars in this limited series as the Chancellor of an unnamed Central European nation that is unraveling behind the palace walls.",
+        "Id": "7"
+      },
+      {
+        "imageName": "movie-8.jpeg",
+        "Title": " Ricky Stanicky",
+        "Description": "When three childhood best friends pull a prank that goes wrong, they invent the imaginary Ricky Stanicky to get them out of trouble. Twenty years later, they still use the nonexistent Ricky as a handy alibi for their immature behavior.",
+        "Id": "8"
+      },
+      {
+        "imageName": "movie-9.jpeg",
+        "Title": "Love Lies Bleeding ",
+        "Description": "Gym manager Lou falls for Jackie, a bodybuilder who is passing through town en route to a competition in Las Vegas",
+        "Id": "9"
+      },
+      {
+        "imageName": "movie-10.jpeg",
+        "Title": " Imaginary ",
+        "Description": "A woman returns to her childhood home to discover that the imaginary friend she left behind is very real and unhappy that she abandoned him.",
+        "Id": "10"
+      },
+      {
+        "imageName": "movie-11.jpeg",
+        "Title": " Damsel ",
+        "Description": "A dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt.",
+        "Id": "11"
+      },
+      {
+        "imageName": "movie-12.jpeg",
+        "Title": " Kung Fu Panda 4",
+        "Description": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm",
+        "Id": "12"
+      },
+      {
+        "imageName": "movie-13.jpeg",
+        "Title": "The Oscars",
+        "Description": "Jimmy Kimmel hosts the 96th Academy Awards from the Dolby Theatre at Ovation Hollywood.",
+        "Id": "13"
+      },
+      {
+        "imageName": "movie-14.jpeg",
+        "Title": "Gladiator",
+        "Description": "A young man, Aren, is recruited into a secret society of magical Black people who dedicate their lives to a cause of utmost importance: making white people's lives easier",
+        "Id": "14"
+      },
+      {
+        "imageName": "movie-1.jpeg",
+        "Title": "Fast & Furious",
+        "Description": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+        "Id": "15"
+      },
+      {
+        "imageName": "movie-2.jpeg",
+        "Title": "The Gentlemen",
+        "Description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+        "Id": "16"
+      },
+      {
+        "imageName": "movie-3.jpeg",
+        "Title": "Manhunt",
+        "Description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+        "Id": "17"
+      },
+      {
+        "imageName": "movie-4.jpeg",
+        "Title": "Palm Royale",
+        "Description": "Half a year into his solo mission on the edge of the solar system, an astronaut concerned with the state of his life back on Earth is helped by an ancient creature he discovers in the bowels of his ship.",
+        "Id": "18"
+      },
+      {
+        "imageName": "movie-5.jpeg",
+        "Title": " Black Mafia Family",
+        "Description": "Two brothers who rose from the decaying streets of southwest Detroit in the late 1980s and gave birth to one of the most influential crime families in the country.",
+        "Id": "19"
+      },
+      {
+        "imageName": "movie-15.jpeg",
+        "Title": "Love Lies Bleeding ",
+        "Description": "Gym manager Lou falls for Jackie, a bodybuilder who is passing through town en route to a competition in Las Vegas",
+        "Id": "20"
+      },
+      {
+        "imageName": "movie-16.jpeg",
+        "Title": " Imaginary ",
+        "Description": "A woman returns to her childhood home to discover that the imaginary friend she left behind is very real and unhappy that she abandoned him.",
+        "Id": "21"
+      },
+      {
+        "imageName": "movie-17.jpeg",
+        "Title": " Damsel ",
+        "Description": "A dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt.",
+        "Id": "22"
+      },
+      {
+        "imageName": "movie-18.jpeg",
+        "Title": " Kung Fu Panda 4",
+        "Description": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm",
+        "Id": "23"
+      },
+      {
+        "imageName": "movie-12.jpeg",
+        "Title": "The Oscars",
+        "Description": "Jimmy Kimmel hosts the 96th Academy Awards from the Dolby Theatre at Ovation Hollywood.",
+        "Id": "24"
+      },
+      {
+        "imageName": "movie-14.jpeg",
+        "Title": "Gladiator",
+        "Description": "A young man, Aren, is recruited into a secret society of magical Black people who dedicate their lives to a cause of utmost importance: making white people's lives easier",
+        "Id": "25"
+      }
+    ]
+}
