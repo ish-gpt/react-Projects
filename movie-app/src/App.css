@@ -93,9 +93,31 @@
   left: 3rem;
 }
 
+.movie-genre{
+  background-color: #3f51b5;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
+.movie-genre-dull:hover {
+ background-color: #3f51b5;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
 .movies-img{
   width: 20vw;
   height: 40vh;
+}
+
+.favourite-generes {
+  padding: 3rem;
+}
+
+.favourite-table {
+  padding: 3rem;
 }
 
 .App-link {
